@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nashc99
+- 👀 I’m interested in making websites and games
+- 🌱 I’m currently learning Python, Lua, C#, HTML, & CSS
+- 💞️ I’m not looking to collaborate currently
+- 📫 You can reach me on discord using "@nashc."
